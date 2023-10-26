@@ -1,0 +1,12 @@
+C:\Users\aidyn\source\repos\Day7 (Tanks\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\aidyn\source\repos\Day7 (Tanks\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\aidyn\source\repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+C:\Users\aidyn\source\repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\aidyn\source\repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\aidyn\source\repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.pdb
+C:\Users\Akarys\Source\Repos\Day7 (Tanks\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\Akarys\Source\Repos\Day7 (Tanks\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\Akarys\Source\Repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\Akarys\Source\Repos\Day7 (Tanks\MyClassLib\obj\Debug\MyClassLib.pdb
